@@ -9,7 +9,7 @@ This project demonstrates how to collect temperature and humidity data using a D
 - Supports DHT11 or DHT22 (just change sensor type in code).
 
 <p align="center"> 
-  <img src="https://github.com/SathvikManuka/DHT_ThingSpeak/blob/main/Temp%26Hum_Results.png" alt="Block Diagram" width="600" /> 
+  <img src="https://github.com/SathvikManuka/DHT_ThingSpeak/blob/main/Temp%26Hum_Results.png" alt="Measuring Results" width="600" /> 
 </p>
 
 ## Hardware Used
